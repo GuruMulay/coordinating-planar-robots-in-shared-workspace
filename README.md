@@ -16,10 +16,18 @@ OR
 
 
 
-Demo:
+## Demos:
+
+Click to watch demo 1:
 
 [![Click to watch demo 1](/media/demo1_1.png)](https://youtu.be/n__4ONsruzI)
 
+
+Click to watch demo 2:
+
 [![Click to watch demo 2](/media/demo2_1.png)](https://youtu.be/Ocnn4p4AvOU)
+
+
+Click to watch demo 3:
 
 [![Click to watch demo 3](/media/demo3_1.png)](https://youtu.be/CooqHyeg5ms)
