@@ -15,7 +15,7 @@ OR
 	Displays the simulated positions of robots' tooltips required for welding the shape.
 
 ## Warning:
-There are many bugs and corner cases yet to be handled!
+There are many bugs and corner cases yet to be handled! Also, there is a huge scope for code reuse and code cleanup.
 
 ## Demos:
 
