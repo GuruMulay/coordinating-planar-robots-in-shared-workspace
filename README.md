@@ -14,7 +14,8 @@ OR
 3. python gui.py
 	Displays the simulated positions of robots' tooltips required for welding the shape.
 
-
+## Warning:
+There are many bugs and corner cases yet to be handled!
 
 ## Demos:
 
